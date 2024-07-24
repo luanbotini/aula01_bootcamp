@@ -1,1 +1,1 @@
-print("TNC")
+print("TNC" + "VOCE")
