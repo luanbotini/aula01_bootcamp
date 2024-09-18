@@ -1,0 +1,1 @@
+print("VAI TOMA NO CU")
